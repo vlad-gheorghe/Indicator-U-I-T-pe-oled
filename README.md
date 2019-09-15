@@ -5,3 +5,4 @@ inspired from https://nicuflorica.blogspot.com/2014/03/arduino-ca-multimetru-3.h
 
 https://vlad-gheorghe.blogspot.com/2018/12/test-indicator-tensiune-curent.html
 
+![poza](https://github.com/vlad-gheorghe/Indicator-U-I-T-pe-oled/blob/master/49394412_371878120068836_9219675272603762688_o.jpg)
